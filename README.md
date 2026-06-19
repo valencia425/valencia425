@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvalencia425&query=%24.id&label=Profile+Views&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)
+[![Profile Views](https://komarev.com/ghpvc/?username=valencia425&style=for-the-badge&color=00D9FF&labelColor=0D1117&label=Profile+Views)](https://github.com/valencia425)
 [![Followers](https://img.shields.io/github/followers/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Followers)](https://github.com/valencia425?tab=followers)
 [![Stars](https://img.shields.io/github/stars/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Stars)](https://github.com/valencia425)
 
