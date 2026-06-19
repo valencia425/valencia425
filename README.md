@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Valencia&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=65&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Valencia&fontSize=60&fontAlignY=40&desc=AI%26DS%20Student%20%7C%20FullStack%20Developer%20%7C%20Competitive%20Programming&descAlignY=65&descAlign=50&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;MERN+Stack+Developer;Full+Stack+Web+Engineer;Open+Source+Contributor;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
