@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](valencia banner.png)
+![banner](Valencia banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;FullStack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;MERN+Stack+Engineer+%E2%9A%A1;Problem+Solver+%7C+Code+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
