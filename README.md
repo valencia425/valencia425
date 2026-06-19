@@ -1,21 +1,8 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0a1628;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#grad)" rx="12"/>
-  <path d="M0,160 C150,120 300,180 450,150 C600,120 750,170 900,140 L900,200 L0,200 Z" fill="#00D9FF" opacity="0.08"/>
-  <path d="M0,175 C200,145 400,185 600,160 C750,140 850,165 900,155 L900,200 L0,200 Z" fill="#00D9FF" opacity="0.05"/>
-  <text x="450" y="90" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">Valencia</text>
-  <text x="450" y="135" font-family="Arial, sans-serif" font-size="17" fill="#00D9FF" text-anchor="middle">AI&amp;DS Student  |  FullStack Developer  |  Competitive Programming</text>
-</svg>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1f3d,100:0D1117&height=200&section=header&text=Valencia&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%26DS%20Student%20%7C%20FullStack%20Developer%20%7C%20Competitive%20Programming&descSize=18&descAlignY=65&descColor=00D9FF)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;FullStack+Developer;Competitive+Programmer;MERN+Stack+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;FullStack+Developer;Competitive+Programmer;MERN+Stack+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
@@ -155,12 +142,6 @@ An intelligent farm advisory system that provides data-driven recommendations to
 
 ---
 
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900" height="80">
-  <rect width="900" height="80" fill="#0D1117"/>
-  <path d="M0,0 C150,40 300,10 450,30 C600,50 750,15 900,35 L900,0 Z" fill="#00D9FF" opacity="0.08"/>
-  <path d="M0,0 C200,30 400,5 600,25 C750,40 850,10 900,20 L900,0 Z" fill="#00D9FF" opacity="0.05"/>
-</svg>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1f3d,100:0D1117&height=100&section=footer)
 
 **⭐ From [valencia425](https://github.com/valencia425)**
