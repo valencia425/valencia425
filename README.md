@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1f3d,100:0D1117&height=200&section=header&text=Valencia&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%26DS%20Student%20%7C%20FullStack%20Developer%20%7C%20Competitive%20Programming&descSize=18&descAlignY=65&descColor=00D9FF)
+![banner](banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;FullStack+Developer;Competitive+Programmer;MERN+Stack+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
@@ -142,6 +142,6 @@ An intelligent farm advisory system that provides data-driven recommendations to
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1f3d,100:0D1117&height=100&section=footer)
+![footer](footer.png)
 
 **⭐ From [valencia425](https://github.com/valencia425)**
