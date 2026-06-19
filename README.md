@@ -1,18 +1,18 @@
 <div align="center">
 
-![banner](banner.png)
+![banner](valencia banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+🤖;FullStack+Developer+💻;Competitive+Programmer+🏆;MERN+Stack+Engineer+⚡;Problem+Solver+%7C+Code+Enthusiast+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;FullStack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;MERN+Stack+Engineer+%E2%9A%A1;Problem+Solver+%7C+Code+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
 <br>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Followers)](https://github.com/valencia425)
-[![GitHub stars](https://img.shields.io/github/stars/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Stars)](https://github.com/valencia425)
-[![GitHub repos](https://img.shields.io/badge/Public%20Repos-2-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/valencia425?tab=repositories)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤-00D9FF?style=for-the-badge&labelColor=0D1117)](https://github.com/valencia425)
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvalencia425&query=%24.id&label=Profile+Views&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)
+[![Followers](https://img.shields.io/github/followers/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Followers)](https://github.com/valencia425?tab=followers)
+[![Stars](https://img.shields.io/github/stars/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Stars)](https://github.com/valencia425)
 
 </div>
 
