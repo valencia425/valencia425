@@ -8,9 +8,13 @@
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=valencia425&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/valencia425)
-[![GitHub followers](https://img.shields.io/github/followers/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)](https://github.com/valencia425)
-[![GitHub User's stars](https://img.shields.io/github/stars/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)](https://github.com/valencia425)
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000&label=Followers)](https://github.com/valencia425)
+[![GitHub stars](https://img.shields.io/github/stars/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000&label=Stars)](https://github.com/valencia425)
+[![GitHub repos](https://img.shields.io/badge/Repos-3-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/valencia425?tab=repositories)
+
+</div>
 
 ---
 
@@ -101,7 +105,7 @@ An intelligent farm advisory system that provides data-driven recommendations to
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valencia425&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=valencia425&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
