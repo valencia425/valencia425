@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080c1a"/>
+      <stop offset="50%" stop-color="#0f1b35"/>
+      <stop offset="100%" stop-color="#080c1a"/>
+    </linearGradient>
+    <linearGradient id="goldline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080c1a" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#F5C842" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#F5C842" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#080c1a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080c1a" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#F5C842" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#F5C842" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#080c1a" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowleft" cx="0%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#F5C842" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#F5C842" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowright" cx="100%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#F5C842" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#F5C842" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowcenter" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F5C842" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#F5C842" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Shimmer gradient for scan effect -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5C842" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#F5C842" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#F5C842" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#F5C842" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F5C842" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base background -->
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- Ambient glow overlays -->
+  <rect width="900" height="220" fill="url(#glowleft)"/>
+  <rect width="900" height="220" fill="url(#glowright)"/>
+  <rect width="900" height="220" fill="url(#glowcenter)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Animated shimmer sweep across banner -->
+  <rect width="900" height="220" fill="url(#shimmer)">
+    <animateTransform attributeName="transform" type="translate"
+      values="-900,0;900,0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtle horizontal lines (grid) -->
+  <g opacity="0.035" stroke="#F5C842" stroke-width="0.6">
+    <line x1="0" y1="44" x2="900" y2="44"/>
+    <line x1="0" y1="88" x2="900" y2="88"/>
+    <line x1="0" y1="132" x2="900" y2="132"/>
+    <line x1="0" y1="176" x2="900" y2="176"/>
+    <line x1="90" y1="0" x2="90" y2="220"/>
+    <line x1="180" y1="0" x2="180" y2="220"/>
+    <line x1="270" y1="0" x2="270" y2="220"/>
+    <line x1="360" y1="0" x2="360" y2="220"/>
+    <line x1="450" y1="0" x2="450" y2="220"/>
+    <line x1="540" y1="0" x2="540" y2="220"/>
+    <line x1="630" y1="0" x2="630" y2="220"/>
+    <line x1="720" y1="0" x2="720" y2="220"/>
+    <line x1="810" y1="0" x2="810" y2="220"/>
+  </g>
+
+  <!-- Floating particles -->
+  <circle cx="80" cy="220" r="2" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="8s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="opacity" values="0;0.6;0.4;0" keyTimes="0;0.1;0.85;1" dur="8s" repeatCount="indefinite" begin="0s"/>
+  </circle>
+  <circle cx="210" cy="220" r="1.5" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="10s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="opacity" values="0;0.5;0.3;0" keyTimes="0;0.1;0.85;1" dur="10s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+  <circle cx="350" cy="220" r="2.5" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="9s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="opacity" values="0;0.7;0.5;0" keyTimes="0;0.1;0.85;1" dur="9s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle cx="450" cy="220" r="1.5" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="7s" repeatCount="indefinite" begin="3.5s"/>
+    <animate attributeName="opacity" values="0;0.5;0.3;0" keyTimes="0;0.1;0.85;1" dur="7s" repeatCount="indefinite" begin="3.5s"/>
+  </circle>
+  <circle cx="590" cy="220" r="2" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="11s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="opacity" values="0;0.6;0.4;0" keyTimes="0;0.1;0.85;1" dur="11s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle cx="720" cy="220" r="1.5" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="8.5s" repeatCount="indefinite" begin="4s"/>
+    <animate attributeName="opacity" values="0;0.5;0.3;0" keyTimes="0;0.1;0.85;1" dur="8.5s" repeatCount="indefinite" begin="4s"/>
+  </circle>
+  <circle cx="830" cy="220" r="2" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="9.5s" repeatCount="indefinite" begin="6s"/>
+    <animate attributeName="opacity" values="0;0.6;0.4;0" keyTimes="0;0.1;0.85;1" dur="9.5s" repeatCount="indefinite" begin="6s"/>
+  </circle>
+  <circle cx="160" cy="220" r="1" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="12s" repeatCount="indefinite" begin="7s"/>
+    <animate attributeName="opacity" values="0;0.4;0.2;0" keyTimes="0;0.1;0.85;1" dur="12s" repeatCount="indefinite" begin="7s"/>
+  </circle>
+  <circle cx="660" cy="220" r="1" fill="#F5C842" opacity="0">
+    <animate attributeName="cy" values="220;-10" dur="10s" repeatCount="indefinite" begin="5s"/>
+    <animate attributeName="opacity" values="0;0.4;0.2;0" keyTimes="0;0.1;0.85;1" dur="10s" repeatCount="indefinite" begin="5s"/>
+  </circle>
+
+  <!-- Dot grid - top right decoration -->
+  <g fill="#F5C842">
+    <circle cx="790" cy="32" r="1.5" opacity="0.2"/>
+    <circle cx="810" cy="32" r="1.5" opacity="0.2"/>
+    <circle cx="830" cy="32" r="1.5" opacity="0.2"/>
+    <circle cx="850" cy="32" r="1.5" opacity="0.2"/>
+    <circle cx="790" cy="50" r="1.5" opacity="0.12"/>
+    <circle cx="810" cy="50" r="1.5" opacity="0.12"/>
+    <circle cx="830" cy="50" r="1.5" opacity="0.12"/>
+    <circle cx="850" cy="50" r="1.5" opacity="0.12"/>
+    <circle cx="790" cy="68" r="1.5" opacity="0.06"/>
+    <circle cx="810" cy="68" r="1.5" opacity="0.06"/>
+    <circle cx="830" cy="68" r="1.5" opacity="0.06"/>
+    <circle cx="850" cy="68" r="1.5" opacity="0.06"/>
+  </g>
+
+  <!-- Dot grid - bottom left decoration -->
+  <g fill="#F5C842">
+    <circle cx="50" cy="152" r="1.5" opacity="0.2"/>
+    <circle cx="70" cy="152" r="1.5" opacity="0.2"/>
+    <circle cx="90" cy="152" r="1.5" opacity="0.2"/>
+    <circle cx="110" cy="152" r="1.5" opacity="0.2"/>
+    <circle cx="50" cy="170" r="1.5" opacity="0.12"/>
+    <circle cx="70" cy="170" r="1.5" opacity="0.12"/>
+    <circle cx="90" cy="170" r="1.5" opacity="0.12"/>
+    <circle cx="110" cy="170" r="1.5" opacity="0.12"/>
+    <circle cx="50" cy="188" r="1.5" opacity="0.06"/>
+    <circle cx="70" cy="188" r="1.5" opacity="0.06"/>
+    <circle cx="90" cy="188" r="1.5" opacity="0.06"/>
+    <circle cx="110" cy="188" r="1.5" opacity="0.06"/>
+  </g>
+
+  <!-- Top animated gold bar -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#topbar)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Bottom animated gold bar -->
+  <rect x="0" y="217" width="900" height="3" fill="url(#topbar)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Left border -->
+  <rect x="0" y="0" width="4" height="220" fill="#F5C842" opacity="0.9"/>
+  <!-- Right border -->
+  <rect x="896" y="0" width="4" height="220" fill="#F5C842" opacity="0.9"/>
+
+  <!-- Corner brackets - animated -->
+  <g stroke="#F5C842" stroke-width="2.5" fill="none">
+    <path d="M10,10 L10,38 M10,10 L38,10">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" begin="0s"/>
+    </path>
+    <path d="M890,10 L890,38 M890,10 L862,10">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" begin="1s"/>
+    </path>
+    <path d="M10,210 L10,182 M10,210 L38,210">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" begin="2s"/>
+    </path>
+    <path d="M890,210 L890,182 M890,210 L862,210">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite" begin="3s"/>
+    </path>
+  </g>
+
+  <!-- NAME - Georgia serif, white, bold -->
+  <text x="450" y="102" font-family="Georgia, serif" font-size="58"
+        font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="6">
+    Valencia S
+    <animate attributeName="opacity" values="0.88;1;0.88" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <!-- Gold glow layer on name -->
+  <text x="450" y="102" font-family="Georgia, serif" font-size="58"
+        font-weight="bold" fill="#F5C842" text-anchor="middle" letter-spacing="6" opacity="0">
+    Valencia S
+    <animate attributeName="opacity" values="0;0.08;0" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Gold divider line -->
+  <rect x="160" y="118" width="580" height="1.5" fill="url(#goldline)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Gold diamond center on divider -->
+  <polygon points="450,112 456,118 450,124 444,118" fill="#F5C842">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Subtitle in gold -->
+  <text x="450" y="153" font-family="Arial, sans-serif" font-size="13.5"
+        fill="#F5C842" text-anchor="middle" letter-spacing="3">
+    AI &amp; DS STUDENT  ·  FULLSTACK DEVELOPER  ·  COMPETITIVE PROGRAMMER
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Animated bottom wave -->
+  <path fill="#F5C842" opacity="0.06">
+    <animate attributeName="d"
+      values="M0,200 C150,190 300,212 450,200 C600,188 750,210 900,198 L900,220 L0,220 Z;
+              M0,205 C150,196 300,207 450,194 C600,181 750,204 900,192 L900,220 L0,220 Z;
+              M0,200 C150,190 300,212 450,200 C600,188 750,210 900,198 L900,220 L0,220 Z"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#F5C842" opacity="0.04">
+    <animate attributeName="d"
+      values="M0,210 C200,202 400,216 600,206 C750,198 860,212 900,207 L900,220 L0,220 Z;
+              M0,213 C200,206 400,212 600,200 C750,192 860,208 900,202 L900,220 L0,220 Z;
+              M0,210 C200,202 400,216 600,206 C750,198 860,212 900,207 L900,220 L0,220 Z"
+      dur="8s" repeatCount="indefinite"/>
+  </path>
+
+</svg>
