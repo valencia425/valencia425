@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](banner.png)
+![banner](banner (1).png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+🤖;FullStack+Developer+💻;Competitive+Programmer+🏆;MERN+Stack+Engineer+⚡;Problem+Solver+%7C+Code+Enthusiast+🚀)](https://git.io/typing-svg)
 
