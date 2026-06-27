@@ -163,27 +163,6 @@ const valenciaS = {
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/valencia-s?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8&width=500" alt="LeetCode Stats" />
-</div>
-
-<br>
-
-<div align="center">
-
-| Platform | Focus Area | Status |
-|:---:|:---:|:---:|
-| 🟡 **LeetCode** | DSA · Algorithms · Interview Prep | Active |
-| 🟢 **HackerRank** | Problem Solving · SQL · Python | Active |
-| 🟤 **CodeChef** | Competitive Programming · Contests | Active |
-| 🔵 **Codeforces** | Competitive Programming · Ratings | Active |
-| 🟩 **GeeksForGeeks** | DSA · CS Fundamentals · Practice | Active |
-| 🟣 **HackerEarth** | Coding Challenges · Hackathons | Active |
-
-</div>
-
 ---
 
 ## 🎯 What I'm Up To
