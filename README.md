@@ -2,7 +2,7 @@
 
 ![banner](Valenciabanner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;FullStack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;MERN+Stack+Engineer+%E2%9A%A1;Problem+Solver+%7C+Code+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F5C842&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;FullStack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;MERN+Stack+Engineer+%E2%9A%A1;Problem+Solver+%7C+Code+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=valencia425&style=for-the-badge&color=00D9FF&labelColor=0D1117&label=Profile+Views)](https://github.com/valencia425)
-[![Followers](https://img.shields.io/github/followers/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Followers)](https://github.com/valencia425?tab=followers)
-[![Stars](https://img.shields.io/github/stars/valencia425?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117&label=Stars)](https://github.com/valencia425)
+[![Profile Views](https://komarev.com/ghpvc/?username=valencia425&style=for-the-badge&color=F5C842&labelColor=0D1117&label=Profile+Views)](https://github.com/valencia425)
+[![Followers](https://img.shields.io/github/followers/valencia425?style=for-the-badge&logo=github&color=F5C842&labelColor=0D1117&label=Followers)](https://github.com/valencia425?tab=followers)
+[![Stars](https://img.shields.io/github/stars/valencia425?style=for-the-badge&logo=github&color=F5C842&labelColor=0D1117&label=Stars)](https://github.com/valencia425)
 
 </div>
 
@@ -148,6 +148,42 @@ const valenciaS = {
 
 <div align="center">
   <img width="95%" src="https://github-profile-trophy.vercel.app/?username=valencia425&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💻 Coding Platforms
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/valencia-s)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/valencia-s)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/valencia-s)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/valencia-s)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/valencia-s)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@valencia-s)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/valencia-s?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8&width=500" alt="LeetCode Stats" />
+</div>
+
+<br>
+
+<div align="center">
+
+| Platform | Focus Area | Status |
+|:---:|:---:|:---:|
+| 🟡 **LeetCode** | DSA · Algorithms · Interview Prep | Active |
+| 🟢 **HackerRank** | Problem Solving · SQL · Python | Active |
+| 🟤 **CodeChef** | Competitive Programming · Contests | Active |
+| 🔵 **Codeforces** | Competitive Programming · Ratings | Active |
+| 🟩 **GeeksForGeeks** | DSA · CS Fundamentals · Practice | Active |
+| 🟣 **HackerEarth** | Coding Challenges · Hackathons | Active |
+
 </div>
 
 ---
